@@ -21326,7 +21326,7 @@ while(true)switch(s){case 0:k=new A.uo(new A.a1y(),$.aC())
 s=2
 return A.a1(k.rS(),$async$Rt)
 case 2:s=3
-return A.a1($.aet().rQ("config/.env.prod"),$async$Rt)
+return A.a1($.aet().rQ("assets/config/.env.prod"),$async$Rt)
 case 3:if($.at==null)A.ai4()
 q=$.at
 q.toString
